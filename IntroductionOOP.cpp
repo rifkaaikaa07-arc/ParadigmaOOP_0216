@@ -13,4 +13,4 @@ public:
         cout << "Nilai: " << nilai << endl;
     }
 
-};
+};// batas kelas
