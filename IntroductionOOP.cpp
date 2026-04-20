@@ -5,5 +5,12 @@ class Mahasiswa {
 public:
     int nim;
     string nama;
+    float nilai;
+
+    void PrintData(){
+        cout << "NIM: " << nim << endl;
+        cout << "Nama: " << nama << endl;
+        cout << "Nilai: " << nilai << endl;
+    }
 
 };
