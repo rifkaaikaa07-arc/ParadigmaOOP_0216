@@ -16,5 +16,5 @@ public:
 };// batas kelas
 
 int main(){
-
+    Mahasiswa mhs;
 }
